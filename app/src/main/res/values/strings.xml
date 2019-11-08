@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Do Not Forget</string>
+    <string name="cancel_dialog_button">Cancel</string>
+    <string name="add_dialog_button">Add</string>
+    <string name="dialog_title">Insert Task</string>
+    <string name="task_hint">Remember To …</string>
+    <string name="task_notification_title">Remember To</string>
+    <string name="description">Description</string>
+    <string name="task">Task</string>
+    <string name="high">High</string>
+    <string name="average">Average</string>
+    <string name="low">Low</string>
+    <string name="priority">priority</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+</resources>
