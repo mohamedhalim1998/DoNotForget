@@ -116,7 +116,5 @@ public class MainActivity extends AppCompatActivity implements InsertDialog.AddT
         mAdapter.swapCursor(null);
     }
 
-    public void DummyDelete(View view) {
-        getContentResolver().delete(TaskContract.TaskEntry.CONTENT_URI, null, null);
-    }
+
 }
